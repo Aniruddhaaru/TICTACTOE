@@ -1,3 +1,0 @@
-[submodule "TICTACTOE"]
-    path = TICTACTOE
-    url = https://github.com/Aniruddhaaru/Tictactoe
